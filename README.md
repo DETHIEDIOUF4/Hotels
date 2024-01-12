@@ -1,6 +1,6 @@
 # hotels
 
-A new Flutter project.
+A Flutter project  make design hotesl app .
 
 ## Getting Started
 
